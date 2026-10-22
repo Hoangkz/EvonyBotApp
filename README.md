@@ -1,2 +1,2 @@
-# EvonyBotReleasee
-Phân phối các phiên bản EXE của EvonyBotReleasee để người dùng tải xuống và cài đặt nhanh chóng.
+# EvonyBotApp
+Phân phối các phiên bản EXE để người dùng tải xuống và cài đặt.
